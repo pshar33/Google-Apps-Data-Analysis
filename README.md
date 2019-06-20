@@ -16,13 +16,13 @@ The dataset is taken from Kaggle. It has been originally scraped from Google Pla
 
 1. **Loading the dataset**: Load the data and import the libraries.
 2. **Data Cleaning**:
-       * Removing redundant data
-       * Dropping NA,nulls
-       * Making new features
-       * Renaming columns
+     * Removing redundant data
+     * Dropping NA,nulls
+     * Making new features
+     * Renaming columns
 3. **Data Visualization**:
-       * Visualizing Distribution of the useful features
-       * Visualizing relation between different features
+     * Visualizing Distribution of the useful features
+     * Visualizing relation between different features
 4. **How much do Free Apps and Paid Apps differ?**
 5. **Is there a relation between the Android Update Dates of all the Apps?**
 6. **Which are the best Apps on App Store?**
